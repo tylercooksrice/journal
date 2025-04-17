@@ -6,7 +6,7 @@
 - Production Deployment: ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/cse110-sp24-group35/journal/.github%2Fworkflows%2Fdeployment.yml)
 
 ## Deployment
-A live deployment of the production build of this application is located [here](https://cse110-sp24-group35.github.io/journal/)
+A live deployment of the production build of this application is located [here](https://tylercooksrice.github.io/journal/src/index.html)
 
 A live deployment of the JSDocs associated with production deployment is located [here](https://cse110-sp24-group35.github.io/journal/docs/)
 
