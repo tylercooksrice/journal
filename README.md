@@ -51,3 +51,7 @@ A live deployment of the JSDocs associated with production deployment is located
 3. Run `npm install` (or `pnpm install`) which is recommended since we base our development on PNPM
 4. Run `pnpm` / `npm` `test` to run both E2E and unit tests, use `test:unit` and/or `test:e2e` if you want to run individual ones
 
+### FYI:
+This repository is cloned from the official repository worked on as a group. The group's repository has been privated and therefore not viewable to the public eye. 
+Github repository for the originial is linked here: https://github.com/cse110-sp24-group35/journal
+
